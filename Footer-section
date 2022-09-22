@@ -1,0 +1,47 @@
+<footer>
+        <div class="container-fluid text-center" style="background-color: black;">
+            <div class="row py-5">
+                <div class="col-12">
+                    <h2 class="text-light">interested in working with me?</h2>
+                    <button class="btn btn-outline-light btn-lg">let's talk</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-md-4 py-3">
+                    <h5 class="text-info pb-3">more links</h5>
+                    <a href="C:\Users\Muskan\shagun.html\blog.html" class="text-light d-block">blogs</a>
+                    <a href="C:\Users\Muskan\Downloads\web page (1).html" class="text-light d-block">home</a>
+                    <a href="C:\Users\Muskan\shagun.html\contact.html" class="text-light d-block">contact me</a>
+                    <a href="#" class="text-light">
+                        write a recommendation<i class="fas fa-heart text-light"></i>
+                    </a>
+                </div>
+                <div class="col-12 col-md-4 text-light text-justify py-3">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, modi! Tempore voluptates illum
+                        animi fuga obcaecati deleniti eum assumenda ratione dolores! Corrupti nisi nostrum velit cumque
+                        aliquid magni tenetur in!
+                    </p>
+                </div>
+                <div class="col-12 col-md-4 py-3">
+                    <h5 class="text-info pb-3">social</h5>
+                    <a
+                        href="https://www.linkedin.com/in/prachi-singh-1a0b2b206/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BO8CNYEm1Ti%2B6ma%2F%2BaPpg6g%3D%3D">
+                        <i class="fab fa-linkedin text-light h1 d-block"></i>
+                    </a>
+                    <a href="https://github.com/shagun-07">
+                        <i class="fab fa-github text-light h1 d-block"></i>
+                    </a>
+                    <a
+                        href="https://accounts.google.com/SignOutOptions?hl=en-GB&continue=https://mail.google.com&service=mail">
+                        <i class="fas fa-envelope text-light h1 d-block"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 text-muted">
+                    <p> copyright © shagun 2021</p>
+                </div>
+            </div>
+        </div>
+    </footer>
